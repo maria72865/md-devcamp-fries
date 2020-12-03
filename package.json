@@ -8,7 +8,7 @@
     "http-proxy": "^1.18.1",
     "lodash": "^4.17.20",
     "object-path": "^0.11.5",
-    "yargs-parser": "^20.2.4"
+    "yargs-parser": "^13.1.2"
   },
   "devDependencies": {},
   "scripts": {
