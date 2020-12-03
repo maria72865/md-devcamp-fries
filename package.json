@@ -1,0 +1,27 @@
+{
+  "name": "devcamp-fries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@babel/generator": "^7.12.5",
+    "http-proxy": "^1.18.1",
+    "lodash": "^4.17.20",
+    "object-path": "^0.11.5",
+    "yargs-parser": "^20.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maria72865/md-devcamp-fries.git"
+  },
+  "author": "Maria Dahlquist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maria72865/md-devcamp-fries/issues"
+  },
+  "homepage": "https://github.com/maria72865/md-devcamp-fries#readme"
+}
